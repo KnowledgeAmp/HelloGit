@@ -1,2 +1,3 @@
 # HelloGit
-First repo
+First repo <br/>
+Hello from Knowledge Amp!
